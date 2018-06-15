@@ -34,7 +34,7 @@ h1 {
     margin: 1rem;
     font-size: 1.5rem;
     padding: 1rem .5rem;
-    transition: all .07s ease;
+    transition: all 1.07s ease;
     width: 10rem;
     text-align: center;
     color: white;
@@ -43,8 +43,8 @@ h1 {
 }
 
 .scale {
-    transform: scale(1.1);
-    border-color: #ffc600;
+    transform: scale(1.2);
+    border-color: #74b9ff;
     box-shadow: 0 0 1rem #ffc600;
 }
 
